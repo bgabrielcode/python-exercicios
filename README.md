@@ -41,7 +41,7 @@ else:
 
 
 
-#Controlando o orçamento mensal
+# Controlando o orçamento mensal
 limite = 3000.0
 despesas_mes = float(input('Digite o total de despesas do mês: '))
 
@@ -51,7 +51,7 @@ else:
     print('Atenção! Você ultrapassou o limite do orçamento.')
 
 
-#Controle de acesso ao escritório
+# Controle de acesso ao escritório
 
 hora_atual = int(input('Digite a hora atual (formato 24 horas): '))
 
@@ -63,7 +63,7 @@ else:
 
 
 
-#Classificando estudantes por média
+# Classificando estudantes por média
 
 media = (nota1 + nota2 + nota3) / 3
 
