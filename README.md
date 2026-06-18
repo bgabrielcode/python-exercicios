@@ -1,5 +1,5 @@
 # python-exercicios
-Exercícios e projetos desenvolvidos durante meus estudos de Python.
+Exercícios desenvolvidos durante meus estudos de Python.
 # treino de if elif e else
 macas = int(input("Digite a quantidade de maçãs vendidas: "))
 bananas = int(input("Digite a quantidade de bananas vendidas: "))
